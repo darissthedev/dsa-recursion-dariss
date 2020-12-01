@@ -169,6 +169,7 @@ let mySmallMaze = [
     return paths;
   }
   pathFinder(bigMaze);
+  
 //Anagrams
 
 //Organization Chart
